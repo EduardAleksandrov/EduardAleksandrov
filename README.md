@@ -42,7 +42,7 @@
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60px"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
@@ -58,7 +58,7 @@
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60px"/>
 </a>
 
 <a href="https://www.qt.io/" target="_blank">
