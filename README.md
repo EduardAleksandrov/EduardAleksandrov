@@ -16,11 +16,11 @@
 </a>
 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60px"/>
 </a>
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
