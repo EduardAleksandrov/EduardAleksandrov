@@ -79,7 +79,6 @@
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaleksandrov&show_icons=true&hide_border=true)](https://github.com/eduardaleksandrov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaleksandrov&layout=compact)](https://github.com/eduardaleksandrov)
 
-<img alt="Eduard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eduardaleksandrov&show_icons=true&hide_border=true" />
 
