@@ -82,3 +82,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaleksandrov&layout=compact)](https://github.com/eduardaleksandrov)
 
 
+![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardaleksandrov&theme=default&show_icons=true)
