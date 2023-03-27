@@ -57,10 +57,6 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60px"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/GNU_Compiler_Collection" target="_blank">
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="60px"/>
-</a>
-
 <a href="https://code.visualstudio.com/" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px"/>
 </a>
@@ -78,7 +74,11 @@
 </a>
 
 <a href="https://cmake.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="60px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="60px"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/GNU_Compiler_Collection" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="60px"/>
 </a>
 
 ## Statistics
