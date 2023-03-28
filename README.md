@@ -83,7 +83,7 @@
 
 ## Statistics
 
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaleksandrov&langs_count=8&hide_border=true" />
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaleksandrov&langs_count=8" />
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=eduardaleksandrov&theme=default&show_icons=true&hide_border=true" />
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=eduardaleksandrov&theme=default&show_icons=true" />
 
