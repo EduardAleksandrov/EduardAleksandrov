@@ -77,6 +77,10 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="60px"/>
 </a>
 
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60px"/>
+</a>
+
 <a href="https://en.wikipedia.org/wiki/GNU_Compiler_Collection" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="60px"/>
 </a>
