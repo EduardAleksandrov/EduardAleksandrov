@@ -23,6 +23,10 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px"/>
 </a>
 
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+<img align="left" src="https://img.icons8.com/external-bearicons-blue-bearicons/64/external-SQL-file-extension-bearicons-blue-bearicons.png" width="60px"/>
+</a>
+
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px"/>
 </a>
