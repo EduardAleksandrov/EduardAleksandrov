@@ -65,6 +65,10 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px"/>
 </a>
 
+<a href="https://www.sqlite.org/index.html" target="_blank">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="60px"/>
+</a>
+
 <a href="https://www.mongodb.com/" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60px"/>
 </a>
