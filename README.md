@@ -89,6 +89,10 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="60px"/>
 </a>
 
+<a href="https://conan.io/" target="_blank">
+<img align="left" src="https://img.icons8.com/external-kmg-design-flat-kmg-design/64/external-cube-graphic-design-kmg-design-flat-kmg-design.png" width="60px"/>
+</a>
+
 <a href="https://visualstudio.microsoft.com/" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60px"/>
 </a>
