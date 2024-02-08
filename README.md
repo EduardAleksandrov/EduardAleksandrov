@@ -62,7 +62,7 @@
 </a>
 
 <a href="https://ubuntu.com/" target="_blank">
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="60px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="60px"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">
