@@ -19,6 +19,10 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60px"/>
 </a>
 
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"/>
+</a>
+
 <a href="https://www.python.org/" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px"/>
 </a>
@@ -81,6 +85,10 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60px"/>
 </a>
 
+<a href="https://dbeaver.io/" target="_blank">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60px"/>
+</a>
+
 <a href="https://www.qt.io/" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="60px"/>
 </a>
@@ -95,6 +103,10 @@
 
 <a href="https://visualstudio.microsoft.com/" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60px"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="60px"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/GNU_Compiler_Collection" target="_blank">
