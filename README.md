@@ -73,6 +73,10 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px"/>
 </a>
 
+<a href="https://www.postgresql.org/" target="_blank">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60px"/>
+</a>
+
 <a href="https://www.mysql.com/" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px"/>
 </a>
