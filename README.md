@@ -89,6 +89,10 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60px"/>
 </a>
 
+<a href="https://redis.io/" target="_blank">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="60px"/>
+</a>
+
 <a href="https://dbeaver.io/" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60px"/>
 </a>
@@ -103,10 +107,6 @@
 
 <a href="https://conan.io/" target="_blank">
 <img align="left" src="https://img.icons8.com/external-kmg-design-flat-kmg-design/64/external-cube-graphic-design-kmg-design-flat-kmg-design.png" width="60px"/>
-</a>
-
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60px"/>
 </a>
 
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
