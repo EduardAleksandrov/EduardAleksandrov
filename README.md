@@ -8,6 +8,7 @@
 - I'm a Computer Science Engineer.
 - I'm interested in C++/C# development(Algorithms, Linux, SQL, Network, Multithreading,...).
 - I'm currently studing on [Software engineering](https://bmstu.ru/faculty/iu) at [Bauman Moscow State Technical University](https://bmstu.ru).
+- My GitHub [Contents](https://github.com/EduardAleksandrov/my_github_contents)
 
 ## Languages
 
