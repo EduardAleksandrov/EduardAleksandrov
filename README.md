@@ -8,7 +8,7 @@ My GitHub [Contents (Содержание репозитория)](https://githu
 ## About
 
 - I'm a Computer Science Engineer.
-- I'm interested in C++/C# development(Algorithms, Linux, SQL, Network, Multithreading,...).
+- I'm interested in C++/C# development(Algorithms, Linux, SQL, Network, Multithreading, Distributed computing, ...).
 - I'm currently studing on [Software engineering](https://bmstu.ru/faculty/iu) at [Bauman Moscow State Technical University](https://bmstu.ru).
 
 ## Languages
