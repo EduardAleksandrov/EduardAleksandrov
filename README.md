@@ -3,13 +3,14 @@
 <a href="https://t.me/eduardale" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
 <a href="mailto:a.edward@list.ru" target="_blank" ><img src="https://img.icons8.com/color/48/circled-envelope.png" width="40"/></a>
 
-My GitHub [Contents (Содержание репозитория)](https://github.com/EduardAleksandrov/my_github_contents)
+[My GitHub Contents (Содержание репозитория)](https://github.com/EduardAleksandrov/my_github_contents)
 
 ## About
 
 - I'm a Computer Science Engineer.
+- I graduated from the [Software Engineering Department](https://bmstu.ru/faculty/iu) at [Bauman Moscow State Technical University](https://bmstu.ru).
 - I'm interested in C++/C# development(Algorithms, Linux, SQL, Network, Multithreading, Distributed computing, ...).
-- I'm currently studing on [Software engineering](https://bmstu.ru/faculty/iu) at [Bauman Moscow State Technical University](https://bmstu.ru).
+
 
 ## Languages
 
