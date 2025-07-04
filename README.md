@@ -117,7 +117,11 @@
 </a>
 
 <a href="https://en.wikipedia.org/wiki/GNU_Compiler_Collection" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="60px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="60px"/>
+</a>
+
+<a href="https://www.rabbitmq.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="60px"/>
 </a>
 
 ## Statistics
