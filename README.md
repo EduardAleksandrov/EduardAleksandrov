@@ -26,6 +26,10 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"/>
 </a>
 
+<a href="https://www.java.com/en/" target="_blank">
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px"/>
+</a>
+
 <a href="https://www.python.org/" target="_blank">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px"/>
 </a>
