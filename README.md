@@ -9,7 +9,7 @@
 
 - I'm a Computer Science Engineer.
 - I graduated from the [Software Engineering Department](https://bmstu.ru/faculty/iu) at [Bauman Moscow State Technical University](https://bmstu.ru).
-- I'm interested in C++/C# development(Algorithms, Linux, SQL, Network, Multithreading, Distributed computing, Mathematical Modeling, AI, ...).
+- I'm interested in Algorithms development, Linux, SQL, Network, Multithreading, Distributed computing, Mathematical Modeling, AI, ... .
 
 
 ## Languages
