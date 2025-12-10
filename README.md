@@ -128,9 +128,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="60px"/>
 </a>
 
-## Statistics
+<!-- ## Statistics -->
 
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaleksandrov&langs_count=8" />
+<!-- <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaleksandrov&langs_count=8" />
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=eduardaleksandrov&theme=default&show_icons=true" />
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=eduardaleksandrov&theme=default&show_icons=true" /> -->
 
