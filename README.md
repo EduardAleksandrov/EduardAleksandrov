@@ -128,6 +128,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="60px"/>
 </a>
 
+<a href="https://spring.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60px" />
+</a>
+
 <!-- ## Statistics -->
 
 <!-- <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaleksandrov&langs_count=8" />
